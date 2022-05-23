@@ -45,7 +45,7 @@
 <img src="https://img.shields.io/badge/CSS3-F7C844?style=for-the-badge&logo=css3&logoColor=black" height=25>
 <img src="https://img.shields.io/badge/JavaScript-F7C844?style=for-the-badge&logo=javascript&logoColor=F7C844" height=25>
 <img src="https://img.shields.io/badge/Node.js-F7C844?style=for-the-badge&logo=nodedotjs&logoColor=black" height=25>
-<img src="https://img.shields.io/badge/React-F7C844?style=for-the-badge&logo=react&logoColor=61DAFB
+<img src="https://img.shields.io/badge/React-F7C844?style=for-the-badge&logo=react&logoColor=61DAFB" height=25>
 <img src="https://img.shields.io/badge/Express.js-F7C844?style=for-the-badge&logo=express&logoColor=black" height=25>
 <img src="https://img.shields.io/badge/MongoDB-F7C844?style=for-the-badge&logo=mongodb&logoColor=black" height=25>
 <img src="https://img.shields.io/badge/Figma-F7C844?style=for-the-badge&logo=figma&logoColor=black" height=25>
