@@ -24,8 +24,10 @@
 <a href= 'https://nytimesbookrank.netlify.app/'>
 <img src="https://github.com/molockss/molockss/blob/main/ezgif.com-gif-maker.gif?raw=true" alt="Book Hunt" height="322px" width="100%" />
 </a>
+ </table>
 <br>
 <br>
+ 
 
 
 
