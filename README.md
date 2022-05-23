@@ -21,7 +21,7 @@
 <td width="50%">
 <h3 align="center" color="white">NY Times Book Rank</h2>
 <div align="center" >  
-<a href= 'https://nytimesbookrank.netlify.app/'>
+<a href="https://nytimesbookrank.netlify.app/">
 <img src="https://github.com/molockss/molockss/blob/main/ezgif.com-gif-maker.gif?raw=true" alt="Book Hunt" height="322px" width="100%" />
 </a>
  </table>
