@@ -24,7 +24,7 @@
 <a href="https://nytimesbookrank.netlify.app/">
 <img src="https://github.com/molockss/molockss/blob/main/ezgif.com-gif-maker.gif?raw=true" alt="Book Hunt" height="322px" width="100%" />
 </a>
- <p><strong>JavaScript, Bootstrap, CSS3, HTML5</strong> — Designed and deployed a fully responsive desktop web interface for customers of T&K Restaurant to browse their menu and connect to Door Dash and place orders for delivery or pick up.</p>
+ <p><strong>JavaScript, Bootstrap, CSS3, HTML5</strong> — Designed and deployed a fully responsive desktop web interface using the NY Times API. Users are able to search the live rank of a book and get access to more information.</p>
  </table>
 <br>
 <br>
