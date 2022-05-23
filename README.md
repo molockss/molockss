@@ -12,4 +12,4 @@
 
  Hey there, my name is Mahamed! Welcome to my profile <br> Feel free to browse through some of my recent projects and reach out to me if you have any questions or comments.
 </p>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=molockss&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727&sideNums=DD2727&sideLabels=DD4236&background=FFFFFF00&currStreakNum=fa8b00">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=molockss&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=F7C844&sideNums=DD2727&sideLabels=DD4236&background=FFFFFF00&currStreakNum=fa8b00">
