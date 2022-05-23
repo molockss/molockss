@@ -13,6 +13,24 @@
  Hey there, my name is Mahamed! Welcome to my profile <br> Feel free to browse through some of my recent projects and reach out to me if you have any questions or comments.
 </p>
 
+
+<h2 align="center">Highlighted Projects </h2>
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center" color="white">NY Times Book Rank</h2>
+<div align="center" >  
+<a href= 'https://nytimesbookrank.netlify.app/'>
+<img src="https://github.com/molockss/molockss/blob/main/ezgif.com-gif-maker.gif?raw=true" alt="Book Hunt" height="322px" width="100%" />
+</a>
+<br>
+<br>
+
+
+
+
+
 <h2 align="center">Data & Analytics</h2>
 
 <div align="center">
