@@ -15,4 +15,4 @@
 
 <h2 align="center">Data & Analytics</h2>
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=molockss&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=F7C844&sideNums=F7C844&sideLabels=F7C844&background=FFFFFF00&currStreakNum=F7C844">
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=molockss&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=F7C844&sideNums=F7C844&sideLabels=F7C844&background=FFFFFF00&currStreakNum=F7C844">
