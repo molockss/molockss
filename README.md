@@ -22,14 +22,14 @@
 <h3 align="center" color="white">NY Times Book Rank</h2>
 <div align="center" >  
 <a href="https://nytimesbookrank.netlify.app/">
-<img src="https://github.com/molockss/molockss/blob/main/ezgif.com-gif-maker.gif?raw=true" alt="Book Hunt" height="322px" width="100%" />
+<img src="https://github.com/molockss/molockss/blob/main/ezgif.com-gif-maker.gif?raw=true" alt="Book Hunt" height="322px" width="60%" />
 </a>
  <p><strong>JavaScript, Bootstrap, CSS3, HTML5</strong> — Designed and deployed a fully responsive desktop web interface using the NY Times API. Users are able to search the live rank of a book and get access to more information.</p>
  
  <h3 align="center" color="white">Tech-Journal</h2>
 <div align="center" >  
 <a href="https://nytimesbookrank.netlify.app/">
-<img src="https://github.com/molockss/molockss/blob/main/tech-gif.gif?raw=true" alt="Tech-Journal" height="322px" width="50%" />
+<img src="https://github.com/molockss/molockss/blob/main/tech-gif.gif?raw=true" alt="Tech-Journal" height="322px" width="60%" />
 </a>
  <p><strong>NodeJS, Express, Bootstrap, CSS3, HTML5</strong> — Designed and deployed a full-stack CRUD app. Users are able to create, edit, update and delete journal entries.</p>
  
