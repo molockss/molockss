@@ -28,7 +28,7 @@
  
  <h3 align="center" color="white">Tech-Journal</h2>
 <div align="center" >  
-<a href="https://nytimesbookrank.netlify.app/">
+<a href="https://crud-tech-journal.herokuapp.com">
 <img src="https://github.com/molockss/molockss/blob/main/tech-gif.gif?raw=true" alt="Tech-Journal" height="322px" width="60%" />
 </a>
  <p><strong>NodeJS, Express, Bootstrap, CSS3, HTML5</strong> — Designed and deployed a full-stack CRUD app. Users are able to create, edit, update and delete journal entries.</p>
