@@ -23,7 +23,7 @@
  <h3 align="center" color="white">Foodstacks</h2>
 <div align="center" >  
 <a href="https://foodstacks.up.railway.app/">
-<img src="https://github.com/molockss/molockss/blob/main/compress-foodstack.gif" alt="foodstacks" vh="350px" vw="0%" />
+<img src="https://github.com/molockss/molockss/blob/main/food-stacks-final.gif" alt="foodstacks" vh="350px" vw="0%" />
 </a>
  <p><strong> Mongoose, Node, Express, EJS, Passport</strong> — Social media app that allows friends to curate their own food itneraries of their favourite restaurants and cafes in Dubai and share it with others .</p>
  
