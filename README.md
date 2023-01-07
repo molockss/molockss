@@ -32,7 +32,7 @@
  
 <h3 align="center" color="white">NY Times Book Rank</h2>
 <div align="center" >  
-<a href="https://nytimesbookrank.netlify.app/">
+<a href="https://github.com/molockss/ny-times-api">
 <img src="https://github.com/molockss/molockss/blob/main/ezgif.com-gif-maker.gif?raw=true" alt="Book Hunt" vh="322px" vw="70%" />
 </a>
  <p><strong>JavaScript, Bootstrap, CSS3, HTML5</strong> — Designed and deployed a fully responsive desktop web interface using the NY Times API. Users are able to search the live rank of a book and get access to more information.</p>
