@@ -25,7 +25,7 @@
 <a href="https://foodstacks.up.railway.app/">
 <img src="https://github.com/molockss/molockss/blob/main/foodstacks-complete.gif" alt="foodstacks" vh="350px" vw="0%" />
 </a>
- <p><strong> Mongoose, Node, Express, EJS, Passport</strong> — Social media app that allows friends to curate their own food itineraries of their favourite restaurants and cafes in Dubai and share it with others .</p>
+ <p><strong> Mongoose, Node, Express, EJS, Passport</strong> — Social media app that allows friends to curate their own food itineraries of their favourite restaurants and cafes in Dubai and share it with others.</p>
  
  
  
