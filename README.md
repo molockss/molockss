@@ -14,7 +14,7 @@
 </p>
 
 
-<h2 align="center">Highlighted Projects </h2>
+<h2 align="center"> Highlighted Projects </h2>
 <div align="center">
 <table>
 <tr>
