@@ -10,7 +10,7 @@
 
 <p align="center">
 
-Hey there, my name is Mahamed! Welcome to my profile <br> Feel free to browse through some of my recent projects be sure to reach out to me if you have any questions or comments.
+Hey there, my name is Mahamed! Welcome to my profile <br> Feel free to browse through some of my recent projects and reach out to me if you have any questions or comments.
 </p>
 
 
