@@ -1,4 +1,4 @@
-![alt text](https://github.com/molockss/molockss/blob/main/github-cover.png "Logo Title Text 1")
+
 
 <p align="center">
 <a href="https://twitter.com/_molocks"><img src="https://img.shields.io/badge/@molockss-F7C844?&style=for-the-badge&logo=twitter&logoColor=black" height=25></a>
